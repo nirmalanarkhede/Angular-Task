@@ -1,0 +1,27 @@
+<div class="container">
+  <h1>Employee Data</h1>
+  <input type="text"  placeholder="Search by employee name " [(ngModel)]="searchTerm" (ngModelChange)="searcheEmp()">
+  <table>
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Email</th>
+        <th>Phone</th>
+        <th>Gender</th>
+        <th>Address</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let employee of searchEmployees" >
+        <td>{{ employee.id }}</td>
+        <td>{{ employee.name }}</td>
+        <td>{{ employee.email }}</td>
+        <td>{{ employee.phone }}</td>
+        <td>{{ employee.gender }}</td>
+        <td>{{ employee.address }}</td>
+      </tr>
+    </tbody>
+  </table>
+ 
+</div>

@@ -1,0 +1,124 @@
+{
+    "employee": [
+        {
+            "id": 1,
+            "name": "John Doe",
+            "email": "johndoe@example.com",
+            "phone": "85555123458",
+            "gender": "Male",
+            "address": "123 Main St, Springfield, IL"
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "janesmith@example.com",
+            "phone": "555-5678",
+            "gender": "Female",
+            "address": "456 Oak St, Metropolis, NY"
+        },
+        {
+            "id": 3,
+            "name": "Alice Johnson",
+            "email": "alicej@example.com",
+            "phone": "555-8765",
+            "gender": "Female",
+            "address": "789 Pine St, Gotham, NJ"
+        },
+        {
+            "id": 4,
+            "name": "Robert Brown",
+            "email": "robertb@example.com",
+            "phone": "555-4321",
+            "gender": "Male",
+            "address": "321 Maple St, Smallville, KS"
+        },
+        {
+            "id": 5,
+            "name": "Emily Davis",
+            "email": "emilyd@example.com",
+            "phone": "555-6789",
+            "gender": "Female",
+            "address": "654 Elm St, Star City, CA"
+        },
+        {
+            "id": 6,
+            "name": "Michael Wilson",
+            "email": "michaelw@example.com",
+            "phone": "555-9876",
+            "gender": "Male",
+            "address": "987 Birch St, Central City, FL"
+        },
+        {
+            "id": 7,
+            "name": "Sarah Taylor",
+            "email": "saraht@example.com",
+            "phone": "555-5432",
+            "gender": "Female",
+            "address": "234 Cedar St, Keystone City, PA"
+        },
+        {
+            "id": 8,
+            "name": "David Martinez",
+            "email": "davidm@example.com",
+            "phone": "555-7654",
+            "gender": "Male",
+            "address": "345 Walnut St, Coast City, TX"
+        },
+        {
+            "id": 9,
+            "name": "Laura White",
+            "email": "lauraw@example.com",
+            "phone": "555-6543",
+            "gender": "Female",
+            "address": "456 Willow St, Blüdhaven, GA"
+        },
+        {
+            "id": 10,
+            "name": "James Harris",
+            "email": "jamesh@example.com",
+            "phone": "555-8765",
+            "gender": "Male",
+            "address": "567 Chestnut St, Hub City, IL"
+        },
+        {
+            "id": 11,
+            "name": "Linda Clark",
+            "email": "lindac@example.com",
+            "phone": "555-5432",
+            "gender": "Female",
+            "address": "678 Poplar St, Fawcett City, MI"
+        },
+        {
+            "id": 12,
+            "name": "Daniel Lewis",
+            "email": "daniell@example.com",
+            "phone": "555-6789",
+            "gender": "Male",
+            "address": "789 Ash St, New Carthage, OH"
+        },
+        {
+            "id": 13,
+            "name": "Karen Lee",
+            "email": "karenl@example.com",
+            "phone": "555-9876",
+            "gender": "Female",
+            "address": "890 Redwood St, Ivy Town, MA"
+        },
+        {
+            "id": 14,
+            "name": "Maren Lee",
+            "email": "karenl@example.com",
+            "phone": "555-9876",
+            "gender": "Female",
+            "address": "80 Redwood St, Ivy Town, MA"
+        },
+        {
+            "id": 15,
+            "name": "John Sina",
+            "email": "johnsina@example.com",
+            "phone": "555-9876",
+            "gender": "Female",
+            "address": "90 Redwood St, Ivy Town, HA"
+        }
+    ]
+}
